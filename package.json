@@ -1,6 +1,6 @@
 {
   "name": "seedream-image-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于火山引擎 SeeDream 模型的 MCP 图片生成工具，支持在 Cursor、Claude Desktop 等客户端中使用",
   "type": "module",
   "bin": {
