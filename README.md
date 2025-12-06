@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wearzdk-seedream-image-mcp-badge.png)](https://mseep.ai/app/wearzdk-seedream-image-mcp)
+
 # SeeDream Image MCP
 
 基于火山引擎 SeeDream 模型的 MCP (Model Context Protocol) 图片生成工具。
