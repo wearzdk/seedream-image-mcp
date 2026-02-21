@@ -2,6 +2,10 @@
 
 基于火山引擎 SeeDream 模型的 MCP (Model Context Protocol) 图片生成工具。
 
+<a href="https://glama.ai/mcp/servers/@wearzdk/seedream-image-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@wearzdk/seedream-image-mcp/badge" alt="SeeDream Image MCP server" />
+</a>
+
 ## ✨ 特性
 
 - 🎨 使用火山引擎 SeeDream 4.0 模型生成高质量图片
